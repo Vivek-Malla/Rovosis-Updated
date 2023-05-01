@@ -118,7 +118,7 @@
     display: grid;
     grid-template-columns: repeat(20,1fr);
     grid-template-rows: repeat(20,1fr);
-    background: #1d1d1d;
+    background: #2d2c38;
     filter: saturate(2);
     overflow: hidden;
 }
@@ -129,7 +129,7 @@
     transition: 2s ease;
     position: relative;
     margin: 2px;
-    background: #1d1d1d;
+    background: #2d2c38;
 }
 
 .colorBox:hover{
